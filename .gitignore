@@ -1,0 +1,48 @@
+# Ignore the .idea folder (JetBrains IDEs)
+.idea/
+
+# Ignore the .vscode folder (Visual Studio Code)
+.vscode/
+
+# Ignore the .vs folder (Visual Studio)
+.vs/
+
+# Ignore the node_modules folder
+node_modules/
+
+# Ignore the build folder
+build/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+jspm_packages/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt/
+
+# Bower dependency directory (https://bower.io/)
+bower_components/
+
+# Environment variables file
+.env
+
+# npm cache directory
+.npm/
+
+# Yarn cache directory
+.yarn/
+.pnp.*
